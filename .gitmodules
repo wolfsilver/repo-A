@@ -1,0 +1,6 @@
+[submodule "sub-A"]
+	path = sub-A
+	url = git@github.com:wolfsilver/sub-A.git
+[submodule "sub-B"]
+	path = sub-B
+	url = git@github.com:wolfsilver/sub-B.git
